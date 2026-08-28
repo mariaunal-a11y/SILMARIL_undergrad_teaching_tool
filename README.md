@@ -28,22 +28,6 @@ You can download the pyAT_interface_JN.ipynb directly from here (github/werin99/
 - Click to open the file
 - press the "three dots" at the top right corner and choose "Download"
 
-#### Method 2
-- Open a new notebook
-- Write and execute a cell with the following code:\
-*!git clone https://github.com/werin99/pyAT_interface.git*
-- You will get a new folder "pyAT_interface". 
-Open the folder and select "pyAT_interface_JN.ipynb"
-
-#### Method 3
-In some Jupyter Notebook environments you can directly from the top menu "clone" (download all files) from a GitHub repository.
-Clone using this link: \
-https://github.com/werin99/pyAT_interface.git
-
-You will get a new folder in the left panel "pyAT_interface". 
-Open the folder and select "pyAT_interface_JN.ipynb"
-
-(While the Colab version will run, it will also unnecessarily display a lot of code.)
 
 ### Needed modules
 Some modules are needed. While many are standard some might be needed to install, especially if you run in your own Jupyter Notebook environment.

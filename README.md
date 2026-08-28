@@ -15,7 +15,8 @@ Using Accelerator Toolbox in a teaching environment, S. Werin, J. Bjorklund Sven
 
 ### Running in Colab
 This is directly available through this link: 
-(https://colab.research.google.com/drive/1ypF0t0PvQT4ZL386xBxnEXZ2j_4x7WLp?usp=drive_link#scrollTo=puQaEypRB09g)
+
+https://colab.research.google.com/drive/1ypF0t0PvQT4ZL386xBxnEXZ2j_4x7WLp?usp=drive_link#scrollTo=puQaEypRB09
 
 This will open Colab in a window in your browser, download the code from here (GitHub) and open it. To save changes you have to save to your own Google Drive. From there you can also store different files for different sessions and make changes.
 
